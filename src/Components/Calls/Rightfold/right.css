@@ -1,0 +1,51 @@
+.rightFold{
+    width: 100%;
+    padding: 24px;
+    background-color: #f5f5f5;
+    z-index:-2;
+}
+.rightfoldHeading{
+    padding: 12px 0px;
+    border-bottom: 2px solid lightgray;
+}
+.headingLabel{
+    font-size: 24px;
+    font-weight: 500;
+}
+.rightfoldOptions{
+    display: flex;
+    justify-content: space-between;
+    margin:16px 0px;
+}
+.addButton{
+    background-color: #6264a7;
+    width:fit-content;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 12px;
+    border-radius: 4px;
+}
+.addIcon{
+    margin-right: 6px;
+    font-size: 14px;
+}
+.addLabel{
+    font-weight: 500;
+    font-size: 14px;
+}
+.contactSearch{
+    background-color: white;
+    width: fit-content;
+    display: flex;
+    padding: 6px;
+}
+.contactSearch input{
+    border:none;
+    outline: none;
+    font-size: 14px;
+}
+.contactsearchIcon{
+    color: #d0d0d0;
+}

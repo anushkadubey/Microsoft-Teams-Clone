@@ -1,0 +1,22 @@
+.callsBody{
+    display: flex;
+    width: 100%;
+    flex: 1;
+    height: 94%;
+}
+.callsContainer{
+    width: 100%;
+    height: 100vh;
+}
+.callsSidebar{
+    display: flex;
+    flex: 1;
+}
+.callsLeft{
+    display: flex;
+    flex:3;
+}
+.callsRight{
+    display: flex;
+    flex: 11;
+}

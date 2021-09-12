@@ -1,0 +1,29 @@
+.itemAvatar{
+    height:32px;
+}
+.dialerItem{
+    display:flex;
+    width: 100%;
+    flex:1;
+    padding: 6px 0px;
+}
+.itemInfo{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    margin-left: 8px;
+    overflow: hidden;
+}
+.itemIcons{
+    display: flex;
+}
+.itemIcon{
+    font-size: 16px;
+}
+.itemTitle{
+    font-weight: 500;
+}
+.itemSubtitle{
+    font-size: 12px;
+    color: #616161;
+}
