@@ -28,7 +28,7 @@ export const  DialerList =[
         id:1,
         name:"Bhavya Shukla",
         type:"Student", 
-        avatar:"./PNG/1.png", 
+        avatar:"https://cdn.icon-icons.com/icons2/1879/PNG/128/iconfinder-11-avatar-2754576_120520.png", 
     },
     {
         id:2,
