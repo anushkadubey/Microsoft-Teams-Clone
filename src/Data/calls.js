@@ -28,7 +28,7 @@ export const  DialerList =[
         id:1,
         name:"Bhavya Shukla",
         type:"Student", 
-        avatar:"https://image.flaticon.com/icons/png/128/921/921124.png",
+        avatar:"./PNG/1.png", 
     },
     {
         id:2,
@@ -50,36 +50,36 @@ export const CallsContact=[
         id:1,
         name:"Kusum",
         type: "Student",
-        avatar:"https://image.flaticon.com/icons/png/128/3667/3667325.png"
+        avatar:"./PNG/1.png"
     },
     {
         id:2,
         name:"Soham Gupta",
         type: "Student",
-        avatar:"https://image.flaticon.com/icons/png/128/2922/2922561.png"
+        avatar:"./PNG/2.png"
     },
     {
         id:1,
-        name:"Ayushi Paul",
+        name:"Ayushi Sinha",
         type: "Student",
-        avatar:"<a href="https://www.flaticon.com/free-icons/woman" title="woman icons">Woman icons created by dDara - Flaticon</a>"
+        avatar:"./PNG/3.png"
     },
     {
         id:2,
-        name:"Ritika",
+        name:"Riya",
         type: "Student",
-        avatar:"https://image.flaticon.com/icons/png/128/2922/2922566.png"
+        avatar:"./PNG/4.png"
     },
     {
         id:1,
-        name:"Pushpanjali",
+        name:"Nidhi Bathwal",
         type: "Student",
-        avatar:"https://image.flaticon.com/icons/png/128/145/145852.png"
+        avatar:"./PNG/5.png"
     },
     {
         id:2,
         name:"Muskan Pathak",
         type: "Teacher",
-        avatar:"https://image.flaticon.com/icons/png/128/201/201634.png"
+        avatar:"./PNG.6.png"
     },
 ]
