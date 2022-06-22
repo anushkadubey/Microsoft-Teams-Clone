@@ -62,7 +62,7 @@ export const CallsContact=[
         id:1,
         name:"Ayushi Paul",
         type: "Student",
-        avatar:"https://image.flaticon.com/icons/png/128/949/949635.png"
+        avatar:"<a href="https://www.flaticon.com/free-icons/woman" title="woman icons">Woman icons created by dDara - Flaticon</a>"
     },
     {
         id:2,
