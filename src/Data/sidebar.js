@@ -3,44 +3,44 @@ export const SidebarData=[
     {
         id:1,
         name:"Activity",
-        icon:<i class="fi-rr-bell"></i>
+        icon:<i class="fi fi-rr-bell"></i>
     },
     {
         id:2,
         name:"Chat",
-        icon:<i class="fi-rr-comment"></i>
+        icon:<i class="fi fi-rr-comment"></i>
     },
     {
         id:3,
         name:"Teams",
-        icon:<i class="fi-rr-users"></i>
+        icon:<i class="fi fi-rr-users"></i>
     },
     {
         id:4,
         name:"Assignments",
-        icon:<i class="fi-rr-backpack"></i>
+        icon:<i class="fi fi-rr-backpack"></i>
     },
     {
         id:5,
         name:"Calendar",
-        icon:<i class="fi-rr-calendar"></i>
+        icon:<i class="fi fi-rr-calendar"></i>
     },
     {
         id:6,
         name:"Calls",
-        icon:<i class="fi-rr-headset"></i>
+        icon:<i class="fi fi-rr-headset"></i>
     },
     {
         id:7,
         name:"Files",
-        icon:<i class="fi-rr-file"></i>
+        icon:<i class="fi fi-rr-file"></i>
     }
 ]
 
 export const SidebarMore=[
     {
         id:1,
-        icon:<i class="fi-rr-menu-dots"></i>
+        icon:<i class="fi fi-rr-menu-dots"></i>
     }
 ]
 
@@ -48,11 +48,11 @@ export const SidebarDown=[
     {
         id:1,
         name:"Apps",
-        icon:<i class="fi-rr-apps-add"></i>
+        icon:<i class="fi fi-rr-apps-add"></i>
     },
     {
         id:2,
         name:"Help",
-        icon:<i class="fi-rr-interrogation"></i>
+        icon:<i class="fi fi-rr-interrogation"></i>
     }
 ]
