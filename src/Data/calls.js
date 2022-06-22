@@ -2,24 +2,24 @@ export const CallsMenu=[
     {
         id:1,
         name:"SpeedDial",
-        icon:<i className="fi fi-rr-smartphone"></i>,
+        icon:<i class="fi fi-rr-smartphone"></i>,
     },
     {
         id:2,
         name:"Contacts",
-        icon:<i className="fi fi-rr-portrait"></i>,
+        icon:<i class="fi fi-rr-portrait"></i>,
     },
 
 {
     id:3,
     name:"History",
-    icon:<i className="fi fi-rr-time-past"></i>,
+    icon:<i class="fi fi-rr-time-past"></i>,
 },
 
 {
     id:1,
     name:"Voicemail",
-    icon:<i className="fi fi-rr-microphone"></i>,
+    icon:<i class="fi fi-rr-microphone"></i>,
 },
 ];
 
