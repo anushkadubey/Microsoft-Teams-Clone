@@ -2,7 +2,7 @@ export const CallsMenu=[
     {
         id:1,
         name:"SpeedDial",
-        icon:<i className=" fi fi-rr-smartphone"></i>,
+        icon:<i className="fi fi-rr-smartphone"></i>,
     },
     {
         id:2,
@@ -19,7 +19,7 @@ export const CallsMenu=[
 {
     id:1,
     name:"Voicemail",
-    icon:<i className=" fi fi-rr-microphone"></i>,
+    icon:<i className="fi fi-rr-microphone"></i>,
 },
 ];
 
