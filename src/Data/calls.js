@@ -50,36 +50,36 @@ export const CallsContact=[
         id:1,
         name:"Kusum",
         type: "Student",
-        avatar:"./PNG/1.png"
+        avatar:"https://cdn.icon-icons.com/icons2/1879/PNG/128/iconfinder-11-avatar-2754576_120520.png"
     },
     {
         id:2,
         name:"Soham Gupta",
         type: "Student",
-        avatar:"./PNG/2.png"
+        avatar:"https://cdn.icon-icons.com/icons2/1879/PNG/128/iconfinder-11-avatar-2754576_120520.png"
     },
     {
         id:1,
         name:"Ayushi Sinha",
         type: "Student",
-        avatar:"./PNG/3.png"
+        avatar:"https://cdn.icon-icons.com/icons2/1879/PNG/128/iconfinder-11-avatar-2754576_120520.png"
     },
     {
         id:2,
         name:"Riya",
         type: "Student",
-        avatar:"./PNG/4.png"
+        avatar:"https://cdn.icon-icons.com/icons2/1879/PNG/128/iconfinder-11-avatar-2754576_120520.png"
     },
     {
         id:1,
         name:"Nidhi Bathwal",
         type: "Student",
-        avatar:"./PNG/5.png"
+        avatar:"https://cdn.icon-icons.com/icons2/1879/PNG/128/iconfinder-11-avatar-2754576_120520.png"
     },
     {
         id:2,
         name:"Muskan Pathak",
         type: "Teacher",
-        avatar:"./PNG.6.png"
+        avatar:"https://cdn.icon-icons.com/icons2/1879/PNG/128/iconfinder-11-avatar-2754576_120520.png"
     },
 ]
