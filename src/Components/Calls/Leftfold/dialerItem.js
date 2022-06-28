@@ -10,9 +10,8 @@ function DialerItem({item}) {
                 <label className="itemSubtitle">{item.type}</label>
             </div>
             <div className="itemIcons">
-            <div className="itemIcon"> <i className="fi-rr-microphone"></i></div>
-            <div className="itemIcon"> <i className="fi-rr-play-alt"></i></div>
-
+            <div className="itemIcon"><i className="fi fi-br-microphone"></i></div>
+            <div className="itemIcon"><i className="fi fi-br-play-alt"></i></div>
             </div>
         </div>
     )

@@ -14,12 +14,12 @@ function RightFold() {
                 <div className="contactSearch">
                     <input placeholder="Find a contact"></input>
                     <div className="contactsearchIcon">
-                    <i className="fi-rr-search"></i>
+                    <i className="fi fi-br-search"></i>
                     </div>
                     </div>
                     <div className="addButton">
                         <div className="addIcon">
-                        <i className="fi-rr-user-add"></i>
+                        <i className="fi fi-br-user-add"></i>
                     </div>
                     <label className="addLabel">Add Contact</label>
                 </div>

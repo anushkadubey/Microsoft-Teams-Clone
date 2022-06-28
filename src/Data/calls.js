@@ -2,24 +2,24 @@ export const CallsMenu=[
     {
         id:1,
         name:"SpeedDial",
-        icon:<i class="fi fi-rr-smartphone"></i>,
+        icon:<i className="fi fi-br-smartphone"></i>,
     },
     {
         id:2,
         name:"Contacts",
-        icon:<i class="fi fi-rr-portrait"></i>,
+        icon:<i className="fi fi-br-portrait"></i>,
     },
 
 {
     id:3,
     name:"History",
-    icon:<i class="fi fi-rr-time-past"></i>,
+    icon:<i className="fi fi-br-time-past"></i>,
 },
 
 {
     id:1,
     name:"Voicemail",
-    icon:<i class="fi fi-rr-microphone"></i>,
+    icon:<i className="fi fi-br-microphone"></i>,
 },
 ];
 
@@ -28,20 +28,20 @@ export const  DialerList =[
         id:1,
         name:"Bhavya Shukla",
         type:"Student", 
-        avatar:"https://cdn.icon-icons.com/icons2/582/PNG/512/woman_icon-icons.com_55031.png", 
+        avatar:"https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/344/external-woman-japanese-wedding-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png", 
     },
     {
         id:2,
         name:"Bharti Singh",
         type:"Teacher", 
-        avatar:"https://cdn.icon-icons.com/icons2/884/PNG/512/person_9_icon-icons.com_68901.png",
+        avatar:"https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/2x/external-woman-avatars-vitaliy-gorbachev-flat-vitaly-gorbachev.png",
     },
 
 {
     id:3,
     name:"Chinmai Dubey",
     type:"Admin", 
-    avatar:"https://cdn.icon-icons.com/icons2/546/PNG/512/1455555018_users-2_icon-icons.com_53266.png"
+    avatar:"https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/452/external-man-avatars-vitaliy-gorbachev-flat-vitaly-gorbachev-23.png"
 }
 ]
 
@@ -56,19 +56,19 @@ export const CallsContact=[
         id:2,
         name:"Soham Gupta",
         type: "Student",
-        avatar:"https://cdn.icon-icons.com/icons2/2643/PNG/512/female_woman_avatar_people_person_white_tone_icon_159370.png"
+        avatar:"https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/344/external-woman-4th-july-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"
     },
     {
         id:1,
         name:"Ayushi Sinha",
         type: "Student",
-        avatar:"https://cdn.icon-icons.com/icons2/1999/PNG/512/avatar_people_person_profile_user_woman_icon_123359.png"
+        avatar:"https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/452/external-woman-avatars-vitaliy-gorbachev-flat-vitaly-gorbachev-2.png"
     },
     {
         id:2,
         name:"Riya",
         type: "Student",
-        avatar:"https://cdn.icon-icons.com/icons2/1465/PNG/512/156womanofficeworker2_100687.png"
+        avatar:"https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/452/external-woman-avatars-vitaliy-gorbachev-flat-vitaly-gorbachev-9.png"
     },
     {
         id:1,
@@ -80,6 +80,6 @@ export const CallsContact=[
         id:2,
         name:"Muskan Pathak",
         type: "Teacher",
-        avatar:"https://cdn.icon-icons.com/icons2/2228/PNG/512/mask_wearing_avatar_woman_covid_coronavirus_air_pollution_icon_134540.png"
+        avatar:"https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/452/external-woman-avatars-vitaliy-gorbachev-flat-vitaly-gorbachev-12.png"
     },
 ]

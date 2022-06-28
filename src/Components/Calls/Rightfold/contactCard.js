@@ -12,9 +12,9 @@ function ContactCard({item}) {
                 </div>
             </div>
             <div className="contactIcons">
-            <div className="contactIcon"><i className="fi-rr-microphone"></i></div>
-            <div className="contactIcon"><i class="fi-rr-play-alt"></i></div>
-            <div className="contactIcon"><i class="fi-rr-menu-dots"></i></div>
+            <div className="contactIcon"><i className="fi fi-br-microphone"></i></div>
+            <div className="contactIcon"><i className="fi fi-br-play-alt"></i></div>
+            <div className="contactIcon"><i className="fi fi-br-menu-dots"></i></div>
             </div>
 
             

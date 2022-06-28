@@ -33,8 +33,8 @@ function LeftFold() {
                         </div>
                     </div>
                     <div className="dialerBottom">
-                        <div className="dialerbottomIcon"><i className="fi-rr-microphone"></i></div>
-                        <div className="dialerbottomIcon"><i className="fi-rr-play-alt"></i></div>
+                        <div className="dialerbottomIcon"><i className="fi fi-br-microphone"></i></div>
+                        <div className="dialerbottomIcon"><i className="fi fi-br-play-alt"></i></div>
                     </div>
                  </div>
             </div>
