@@ -3,7 +3,7 @@ export const SidebarData=[
     {
         id:1,
         name:"Activity",
-        icon:<i className="fi fi-br-bell"></i>
+        icon:<i className=" fi-br-bell"></i>
     },
     {
         id:2,
