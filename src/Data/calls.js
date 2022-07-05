@@ -74,7 +74,7 @@ export const CallsContact=[
         id:1,
         name:"Nidhi Bathwal",
         type: "Student",
-        avatar:"https://cdn.icon-icons.com/icons2/582/PNG/512/girl_icon-icons.com_55043.png"
+        avatar:"https://cdn.icon-icons.com/icons2/1879/PNG/128/iconfinder-11-avatar-2754576_120520.png"
     },
     {
         id:2,
